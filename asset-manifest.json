@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/static/js/main.fd400bfc.chunk.js",
-    "main.js.map": "/static/js/main.fd400bfc.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.b233953a.js",
-    "runtime-main.js.map": "/static/js/runtime-main.b233953a.js.map",
-    "static/js/2.4809ed69.chunk.js": "/static/js/2.4809ed69.chunk.js",
-    "static/js/2.4809ed69.chunk.js.map": "/static/js/2.4809ed69.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.b893281c9637ad96ff5d3b908ded1d15.js": "/precache-manifest.b893281c9637ad96ff5d3b908ded1d15.js",
-    "service-worker.js": "/service-worker.js",
-    "static/js/2.4809ed69.chunk.js.LICENSE": "/static/js/2.4809ed69.chunk.js.LICENSE"
+    "main.js": "/test-skytracking/static/js/main.e0c6a68a.chunk.js",
+    "main.js.map": "/test-skytracking/static/js/main.e0c6a68a.chunk.js.map",
+    "runtime-main.js": "/test-skytracking/static/js/runtime-main.c37a9e11.js",
+    "runtime-main.js.map": "/test-skytracking/static/js/runtime-main.c37a9e11.js.map",
+    "static/js/2.d6b0c838.chunk.js": "/test-skytracking/static/js/2.d6b0c838.chunk.js",
+    "static/js/2.d6b0c838.chunk.js.map": "/test-skytracking/static/js/2.d6b0c838.chunk.js.map",
+    "index.html": "/test-skytracking/index.html",
+    "precache-manifest.78b886cbc4ec4b79e80c86ba0153ce8f.js": "/test-skytracking/precache-manifest.78b886cbc4ec4b79e80c86ba0153ce8f.js",
+    "service-worker.js": "/test-skytracking/service-worker.js",
+    "static/js/2.d6b0c838.chunk.js.LICENSE": "/test-skytracking/static/js/2.d6b0c838.chunk.js.LICENSE"
   },
   "entrypoints": [
-    "static/js/runtime-main.b233953a.js",
-    "static/js/2.4809ed69.chunk.js",
-    "static/js/main.fd400bfc.chunk.js"
+    "static/js/runtime-main.c37a9e11.js",
+    "static/js/2.d6b0c838.chunk.js",
+    "static/js/main.e0c6a68a.chunk.js"
   ]
 }
