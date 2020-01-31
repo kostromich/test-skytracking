@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/test-skytracking/precache-manifest.78b886cbc4ec4b79e80c86ba0153ce8f.js"
+  "/test-skytracking/precache-manifest.e568ad9205c9f34f2d9148d5adeec81c.js"
 );
 
 self.addEventListener('message', (event) => {

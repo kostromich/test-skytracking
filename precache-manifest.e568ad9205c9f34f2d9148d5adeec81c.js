@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0361c189ccecb435c5c22d5e03bb2f10",
+    "revision": "fb0450ebb1fc1d751c3623cf305f4b48",
     "url": "/test-skytracking/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/test-skytracking/static/js/2.d6b0c838.chunk.js.LICENSE"
   },
   {
-    "revision": "54c7b3a86a5e2b200d3c",
-    "url": "/test-skytracking/static/js/main.e0c6a68a.chunk.js"
+    "revision": "e84bc062052c4d4c6886",
+    "url": "/test-skytracking/static/js/main.5078b8d4.chunk.js"
   },
   {
     "revision": "3c26190ef17eae219021",
